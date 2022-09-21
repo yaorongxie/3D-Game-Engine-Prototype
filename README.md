@@ -1,0 +1,3 @@
+1. Developed a 3D game engine prototype in C++, with core features including Z-buffering, lighting and shading, texture mapping,normal mapping, skeletal animation and skinning, collision detection, asset manager, multithreaded job manager
+2. Implemented various shaders in Microsoft High-Level Shader Language, which support Phong shading, tone shading, and post-processing effects like gaussian blur and bloom
+3. Adapted Microsoft DirectX Tool Kit to manage data flow between CPU and GPU, and construct a graphics rendering pipeline
